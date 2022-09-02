@@ -2,10 +2,11 @@ site_name: 'Project:007 Document'
 site_author: 'hzy'
 site_description: 'Project007 Documentation'
 
-#edit_uri: 'Design/docs/'
+edit_uri: 'docs/'
 
 nav:
   - 系统策划案: index.md
+  - 系统: 
     - 核心玩法: 核心玩法.md
     - 世界观背景: 故事板.md
   - 界面: 界面/界面.md
