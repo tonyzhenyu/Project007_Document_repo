@@ -6,8 +6,8 @@ site_description: 'Project007 Documentation'
 
 nav:
 - 系统策划案: index.md
-- a01: 202208212223.md
-- a03: demogameplay.md 
+  - 核心玩法 : 核心玩法.md
+  - 世界观背景 : 故事板.md
 - 界面: 界面/界面.md
 - 关卡模块: 关卡模块/关卡.md
 - 道具模块: 道具模块/道具.md
