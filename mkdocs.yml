@@ -24,6 +24,7 @@ nav:
     - 装备: 战斗模块/装备.md
   - 相机: 相机模块/相机模块.md
   - 项目配置: 项目配置.md
+  - 美术资源规范: 美术资源规范.md
 
 markdown_extensions:
   - admonition  # 提示块
