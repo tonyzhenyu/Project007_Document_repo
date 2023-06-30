@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "e285351068743aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "74fe6718892b351c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "117058c81e4b766a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9684cae146834c22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目文档/故事板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "105e56c8d29e7b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "0964171cd35558fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c01a05e78f12277",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba955b73a17993c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6539846cf33b88e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e255beb8a9ba1c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "47abafcc5cd8c07d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ba312f281e6055",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "项目文档/故事板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79c9d7695a868369",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "项目文档/故事板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "382968507dbe7142",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d60853b500110d0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "项目文档/故事板.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9684cae146834c22",
+  "lastOpenFiles": [
+    "项目文档/战斗模块/AI.md",
+    "项目文档/战斗模块/装备.md",
+    "项目文档/战斗模块/战斗系统要素.md",
+    "项目文档/战斗模块/角色组成.md",
+    "项目文档/战斗模块/角色控制.md",
+    "项目文档/战斗模块/道具.md",
+    "项目文档/战斗模块/角色开发流程.jpg",
+    "项目文档/战斗模块/芯片模块.md",
+    "项目文档/关卡模块/ref (2).jpg",
+    "项目文档/故事板.md",
+    "项目文档/index.md",
+    "项目文档/项目配置.md",
+    "需求文档/Demo v0.01/辅助瞄准.md",
+    "项目文档/美术资源规范.md",
+    "项目文档/核心玩法.md",
+    "需求文档/Demo v0.01",
+    "项目文档",
+    "项目文档/界面/界面.md",
+    "需求文档",
+    "项目文档/战斗模块",
+    "渲染/【技术文档】屏幕空间雾.md",
+    "渲染/渲染大纲.md",
+    "渲染",
+    "项目文档/相机模块/相机模块.md",
+    "项目文档/相机模块",
+    "项目文档/模型/模型.md",
+    "项目文档/模型",
+    "项目文档/界面/HUD01.png",
+    "技术文档/战斗模块/解决方案库.md",
+    "项目文档/界面",
+    "技术文档/战斗模块/组件库.md",
+    "技术文档/战斗模块/角色组成.md",
+    "项目文档/关卡模块/ref (8).jpg",
+    "技术文档/战斗模块/战斗系统",
+    "技术文档/战斗模块",
+    "项目文档/关卡模块/ref (7).jpg",
+    "项目文档/关卡模块/ref (6).png",
+    "项目文档/关卡模块/ref (5).png",
+    "项目文档/关卡模块/ref (4).jpg",
+    "项目文档/关卡模块/ref (3).jpg",
+    "项目文档/关卡模块/ref (1).jpg",
+    "项目文档/关卡模块/关卡.md",
+    "背包.md"
+  ]
+}
