@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目文档/故事板.md",
+                "file": "需求文档/Demo v0.01/菜单界面/角色背包页签.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目文档/故事板.md",
+                "file": "需求文档/Demo v0.01/菜单界面/角色背包页签.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目文档/故事板.md",
+                "file": "需求文档/Demo v0.01/菜单界面/角色背包页签.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目文档/故事板.md"
+                "file": "需求文档/Demo v0.01/菜单界面/角色背包页签.md"
               }
             }
           }
@@ -157,6 +157,10 @@
   },
   "active": "9684cae146834c22",
   "lastOpenFiles": [
+    "需求文档/Demo v0.01/辅助瞄准.md",
+    "需求文档/Demo v0.01/菜单界面/菜单界面.md",
+    "需求文档/Demo v0.01/输入按键设计.md",
+    "项目文档/故事板.md",
     "项目文档/战斗模块/AI.md",
     "项目文档/战斗模块/装备.md",
     "项目文档/战斗模块/战斗系统要素.md",
@@ -166,10 +170,8 @@
     "项目文档/战斗模块/角色开发流程.jpg",
     "项目文档/战斗模块/芯片模块.md",
     "项目文档/关卡模块/ref (2).jpg",
-    "项目文档/故事板.md",
     "项目文档/index.md",
     "项目文档/项目配置.md",
-    "需求文档/Demo v0.01/辅助瞄准.md",
     "项目文档/美术资源规范.md",
     "项目文档/核心玩法.md",
     "需求文档/Demo v0.01",
